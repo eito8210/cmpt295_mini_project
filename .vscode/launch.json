@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/Eito8/Developer/CMPT295_2025_Fall/cmpt295_mini_project",
+      "program": "/Users/Eito8/Developer/CMPT295_2025_Fall/cmpt295_mini_project/build/Debug/outDebug"
+    }
+  ]
+}
