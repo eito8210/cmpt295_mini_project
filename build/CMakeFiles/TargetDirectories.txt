@@ -1,0 +1,13 @@
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/bubble_O0.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/bubble_O2.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/bubble_O3.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/analyze.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/compare.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/perf-basic.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/perf-early.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/perf-branchless.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/perf-all.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/assembly.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/clean-all.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/edit_cache.dir
+/home/ena50/Documents/CMPT295/mini_project/cmpt295_mini_project/build/CMakeFiles/rebuild_cache.dir

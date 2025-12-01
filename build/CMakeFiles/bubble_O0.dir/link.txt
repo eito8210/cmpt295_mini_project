@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/bubble_O0.dir/bubble_sorts.c.o CMakeFiles/bubble_O0.dir/benchmark.c.o -o bubble_O0 

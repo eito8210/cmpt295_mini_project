@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/analyze.dir/bubble_sorts.c.o CMakeFiles/analyze.dir/analysis.c.o -o analyze 
